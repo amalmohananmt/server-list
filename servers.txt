@@ -1,3 +1,4 @@
 web01
 db01
 app01
+cache01
